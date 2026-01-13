@@ -11,6 +11,7 @@ An open-source article summarizer engineered to transform lengthy articles into 
 
 This web-based project uses RapidAPI's endpoint to break down long articles into clear and concise summaries, highlighting the most important points. It is designed for efficiency, utilizing modern data-fetching patterns to provide a seamless user experience.
 
+
 🛠️ Tech Stack & Key Features
 -----------------------------
 
@@ -42,7 +43,6 @@ then add .env file under project folder. File should look  like this:
 VITE_RAPID_API_ARTICLE_KEY=your_key
 ```
 
-
 🎓 Acknowledgments & Attribution
 --------------------------------
 
@@ -53,3 +53,9 @@ This project was built following the architectural patterns and guidance provide
 *   **Implementation:** Completed the full-stack integration and environment configuration.
     
 *   **Deployment:** Orchestrated the production build and hosted the application.
+
+
+📜 License
+--------------------------------
+
+This project is licensed under the MIT License.

@@ -54,8 +54,3 @@ This project was built following the architectural patterns and guidance provide
     
 *   **Deployment:** Orchestrated the production build and hosted the application.
 
-
-📜 License
---------------------------------
-
-This project is licensed under the MIT License.
